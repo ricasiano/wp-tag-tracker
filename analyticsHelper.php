@@ -41,7 +41,8 @@ class AnalyticsHelper
 		'iFM 99.1 CDO' => 'ifmcdo',
 		'iFM 93.9 Davao' => 'ifmdavao',
 		'iFM 91.9 Gensan' => 'ifmgensan',
-		'iFM 96.3 Zamboanga' => 'ifmzamboanga'
+        'iFM 96.3 Zamboanga' => 'ifmzamboanga',
+        'RMN News Nationwide The Sound of the Nation' => 'rmnnewsnationwidethesoundofthenation'
 		];
 	private $locations = [
 			'LUZON' => 'luzon',
